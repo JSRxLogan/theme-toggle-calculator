@@ -4,7 +4,7 @@ A simple, responsive, and functional calculator built with HTML, CSS, and JavaSc
 
 ## 🔗 Live Demo
 
-[Click here to try the calculator](https://your-deployment-url.com) 🚀
+[Click here to try the calculator](https://jsrxlogan.github.io/theme-toggle-calculator/) 🚀
 
 ## Features
 
